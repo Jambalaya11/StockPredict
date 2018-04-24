@@ -1,0 +1,6 @@
+model_checkpoint_path: "stock.model-800"
+all_model_checkpoint_paths: "stock.model-0"
+all_model_checkpoint_paths: "stock.model-200"
+all_model_checkpoint_paths: "stock.model-400"
+all_model_checkpoint_paths: "stock.model-600"
+all_model_checkpoint_paths: "stock.model-800"
